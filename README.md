@@ -43,11 +43,8 @@ project/
 ├── ideal.csv
 ├── test.csv
 │
-├── main.py
-├── loader.py
-├── database.py
-├── matcher.py
-├── visualizer.py
+├── least_squares.py
+├── tests.py
 │
 ├── assignment.db        # generated output
 ├── visualization.html   # generated output
